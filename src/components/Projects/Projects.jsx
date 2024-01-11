@@ -22,8 +22,8 @@ const Projects = () => {
                             }
                         </ul>
                         <div>
-                            {/* <a href={project.demo}>Demo</a>
-                            <a href={project.source}>Source</a> */}
+                            <a href={project.demo}>Demo</a>
+                            <a href={project.source}>Source</a>
                         </div>
                     </div>
                 })
