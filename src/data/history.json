@@ -1,30 +1,38 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Campus Executive",
+      "organisation": "E-Cell, IIT Bombay",
+      "startDate": "Jul, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Event organization and community building.", "Business skills development and entrepreneur networking." , "Promotion of entrepreneurship, fostering innovation, and leadership opportunities."],
+      "imageSrc": "history/ecell.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Associate",
+      "organisation": "DATAMATICS GLOBAL SERVICES LIMITED",
+      "startDate": "Dec, 2021",
+      "endDate": "Dec, 2022",
+      "experiences": ["Proctor for online exams for big clients like AWS, Microsoft Azure and proctoring 12 exams at a time and around 100 exams daily.", "Coordinated with other team members to elimination of any possible errors and increase theproductivity to 100% and maintain the quality."],
+      "imageSrc": "history/datamatics.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+        "role": "TCS iON Career Edge - Young Professional",
+        "organisation": "Tata Consultancy Services",
+        "startDate": "Jun, 2023",
+        "endDate": "July, 2023",
+        "experiences": ["Acquired essential skills like communication, presentation, and soft skills.", "Gained expertise in career guidance, resume writing, interview skills, and workplace etiquette for professional success."],
+        "imageSrc": "history/tcs.png"
+      },
+    {
+      "role": "Office Support",
+      "organisation": "ARYAV SECURITY CONSULTING & RESEARCH PVT LTD",
+      "startDate": "Aug, 2017",
+      "endDate": "Jun, 2019",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Grab to built VA-PT Report Completion Training plus 6 Months internship experience.",
+        "The Guidance is good andthey are ready to help at any point of time."
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/aryav.png"
     }
   ]
   
