@@ -1,17 +1,17 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
+      "title": "Todo-List React",
+      "imageSrc": "projects/todos.PNG",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["React", "VS Code", "Node"],
+      "demo": "https://todoslists-react.netlify.app/",
+      "source": "https://github.com/akashc-hub/Todos-List-React"
     },
     {
-      "title": "Project B",
+      "title": "AI-Buddy (Virtual Assistant)",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "skills": ["Python", "A.I", "M.L"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
